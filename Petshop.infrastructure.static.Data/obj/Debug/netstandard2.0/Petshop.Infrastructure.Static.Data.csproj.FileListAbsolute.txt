@@ -1,0 +1,14 @@
+C:\Users\Bjarne Helsinghof\source\repos\Petshop\Petshop.infrastructure.static.Data\bin\Debug\netstandard2.0\Petshop.Infrastructure.Static.Data.deps.json
+C:\Users\Bjarne Helsinghof\source\repos\Petshop\Petshop.infrastructure.static.Data\bin\Debug\netstandard2.0\Petshop.Infrastructure.Static.Data.dll
+C:\Users\Bjarne Helsinghof\source\repos\Petshop\Petshop.infrastructure.static.Data\bin\Debug\netstandard2.0\Petshop.Infrastructure.Static.Data.pdb
+C:\Users\Bjarne Helsinghof\source\repos\Petshop\Petshop.infrastructure.static.Data\bin\Debug\netstandard2.0\Petshop.Core.dll
+C:\Users\Bjarne Helsinghof\source\repos\Petshop\Petshop.infrastructure.static.Data\bin\Debug\netstandard2.0\Petshop.Core.Entity.dll
+C:\Users\Bjarne Helsinghof\source\repos\Petshop\Petshop.infrastructure.static.Data\bin\Debug\netstandard2.0\Petshop.Core.Entity.pdb
+C:\Users\Bjarne Helsinghof\source\repos\Petshop\Petshop.infrastructure.static.Data\bin\Debug\netstandard2.0\Petshop.Core.pdb
+C:\Users\Bjarne Helsinghof\source\repos\Petshop\Petshop.infrastructure.static.Data\obj\Debug\netstandard2.0\Petshop.Infrastructure.Static.Data.csprojAssemblyReference.cache
+C:\Users\Bjarne Helsinghof\source\repos\Petshop\Petshop.infrastructure.static.Data\obj\Debug\netstandard2.0\Petshop.Infrastructure.Static.Data.csproj.CoreCompileInputs.cache
+C:\Users\Bjarne Helsinghof\source\repos\Petshop\Petshop.infrastructure.static.Data\obj\Debug\netstandard2.0\Petshop.Infrastructure.Static.Data.AssemblyInfoInputs.cache
+C:\Users\Bjarne Helsinghof\source\repos\Petshop\Petshop.infrastructure.static.Data\obj\Debug\netstandard2.0\Petshop.Infrastructure.Static.Data.AssemblyInfo.cs
+C:\Users\Bjarne Helsinghof\source\repos\Petshop\Petshop.infrastructure.static.Data\obj\Debug\netstandard2.0\Petshop.Infrastructure.Static.Data.csproj.CopyComplete
+C:\Users\Bjarne Helsinghof\source\repos\Petshop\Petshop.infrastructure.static.Data\obj\Debug\netstandard2.0\Petshop.Infrastructure.Static.Data.dll
+C:\Users\Bjarne Helsinghof\source\repos\Petshop\Petshop.infrastructure.static.Data\obj\Debug\netstandard2.0\Petshop.Infrastructure.Static.Data.pdb
