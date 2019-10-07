@@ -16,3 +16,9 @@ C:\Users\Bjarne Helsinghof\source\repos\Petshop\Petshop\obj\Debug\netcoreapp2.2\
 C:\Users\Bjarne Helsinghof\source\repos\Petshop\Petshop\obj\Debug\netcoreapp2.2\PetshopComp.csproj.CopyComplete
 C:\Users\Bjarne Helsinghof\source\repos\Petshop\Petshop\obj\Debug\netcoreapp2.2\PetshopComp.dll
 C:\Users\Bjarne Helsinghof\source\repos\Petshop\Petshop\obj\Debug\netcoreapp2.2\PetshopComp.pdb
+C:\Users\Bjarne Helsinghof\source\repos\PetshopComp\Petshop\obj\Debug\netcoreapp2.2\PetshopComp.csprojAssemblyReference.cache
+C:\Users\Bjarne Helsinghof\source\repos\PetshopComp\Petshop\obj\Debug\netcoreapp2.2\PetshopComp.csproj.CoreCompileInputs.cache
+C:\Users\Bjarne Helsinghof\source\repos\PetshopComp\Petshop\obj\Debug\netcoreapp2.2\PetshopComp.AssemblyInfoInputs.cache
+C:\Users\Bjarne Helsinghof\source\repos\PetshopComp\Petshop\obj\Debug\netcoreapp2.2\PetshopComp.AssemblyInfo.cs
+C:\Users\Bjarne Helsinghof\source\repos\PetshopComp\Petshop\obj\Debug\netcoreapp2.2\PetshopComp.dll
+C:\Users\Bjarne Helsinghof\source\repos\PetshopComp\Petshop\obj\Debug\netcoreapp2.2\PetshopComp.pdb

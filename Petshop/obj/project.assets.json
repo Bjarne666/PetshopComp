@@ -971,11 +971,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bjarne Helsinghof\\source\\repos\\Petshop\\Petshop\\PetshopComp.csproj",
+      "projectUniqueName": "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop\\PetshopComp.csproj",
       "projectName": "PetshopComp",
-      "projectPath": "C:\\Users\\Bjarne Helsinghof\\source\\repos\\Petshop\\Petshop\\PetshopComp.csproj",
+      "projectPath": "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop\\PetshopComp.csproj",
       "packagesPath": "C:\\Users\\Bjarne Helsinghof\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bjarne Helsinghof\\source\\repos\\Petshop\\Petshop\\obj\\",
+      "outputPath": "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -994,11 +994,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Bjarne Helsinghof\\source\\repos\\Petshop\\Petshop.Core\\Petshop.Core.csproj": {
-              "projectPath": "C:\\Users\\Bjarne Helsinghof\\source\\repos\\Petshop\\Petshop.Core\\Petshop.Core.csproj"
+            "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop.Core\\Petshop.Core.csproj": {
+              "projectPath": "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop.Core\\Petshop.Core.csproj"
             },
-            "C:\\Users\\Bjarne Helsinghof\\source\\repos\\Petshop\\Petshop.infrastructure.static.Data\\Petshop.Infrastructure.Static.Data.csproj": {
-              "projectPath": "C:\\Users\\Bjarne Helsinghof\\source\\repos\\Petshop\\Petshop.infrastructure.static.Data\\Petshop.Infrastructure.Static.Data.csproj"
+            "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop.infrastructure.static.Data\\Petshop.Infrastructure.Static.Data.csproj": {
+              "projectPath": "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop.infrastructure.static.Data\\Petshop.Infrastructure.Static.Data.csproj"
             }
           }
         }

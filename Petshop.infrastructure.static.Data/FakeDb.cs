@@ -7,14 +7,17 @@ namespace Petshop.Infrastructure.Static.Data
 {
     public class FakeDb
     {
+        internal static int OwnerId = 1;
+        internal static List<Owner> OwnerTable = new List<Owner>();
+
         public static int Id = 1;
         public static IEnumerable<Pet> AllPets;
 
         public static void InitData()
         {
-            List<Pet> ListPets = new List<Pet>();
+            var listPets = new List<Pet>();
 
-            Pet dog = new Pet()
+            var dog = new Pet()
             {
                 Colour = "black",
                 Type = "Dog",
@@ -26,7 +29,7 @@ namespace Petshop.Infrastructure.Static.Data
                 Id = 1,
 
             };
-            Pet lion = new Pet()
+            var lion = new Pet()
             {
                 Colour = "Red",
                 Type = "Lion",
@@ -37,7 +40,7 @@ namespace Petshop.Infrastructure.Static.Data
                 Name = "Jack",
                 PreviousOwner = "svend ole thorson",
             };
-            Pet shark = new Pet()
+            var shark = new Pet()
             {
                 Colour = "White",
                 Price = 50000,
@@ -48,7 +51,7 @@ namespace Petshop.Infrastructure.Static.Data
                 SoldDate = DateTime.Now,
                 PreviousOwner = "Frank vad",
             };
-            Pet tiger = new Pet()
+            var tiger = new Pet()
             {
                 Colour = "yellow",
                 Id =4, 
@@ -60,7 +63,7 @@ namespace Petshop.Infrastructure.Static.Data
                 PreviousOwner = "Arnold Swarzenstegger"
             };
 
-            Pet aligator = new Pet()
+            var aligator = new Pet()
             {
                 Id = 5,
                 Colour = "Green",
@@ -70,13 +73,27 @@ namespace Petshop.Infrastructure.Static.Data
                 Name = "Killer Croc",
                 SoldDate = DateTime.Today,
                 PreviousOwner = "Dundee Odriscoll",
+
+
             };
-            ListPets.Add(dog);
-            ListPets.Add(aligator);
-            ListPets.Add(lion);
-            ListPets.Add(shark);
-            ListPets.Add(tiger);
-            AllPets = ListPets;
+            OwnerTable.Add(
+                new Owner
+                {
+                    FirstName = "Ingo",
+                    LastName = "Nøffe"
+                });
+            OwnerTable.Add(
+                new Owner
+                {
+                    FirstName = "Bingo",
+                    LastName = "Børgesen"
+                });
+            listPets.Add(dog);
+            listPets.Add(aligator);
+            listPets.Add(lion);
+            listPets.Add(shark);
+            listPets.Add(tiger);
+            AllPets = listPets;
 
         }
     }

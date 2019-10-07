@@ -10,3 +10,15 @@ C:\Users\Bjarne Helsinghof\source\repos\Petshop\Petshop.Core\obj\Debug\netstanda
 C:\Users\Bjarne Helsinghof\source\repos\Petshop\Petshop.Core\bin\Debug\netstandard2.0\Petshop.Core.Entity.dll
 C:\Users\Bjarne Helsinghof\source\repos\Petshop\Petshop.Core\bin\Debug\netstandard2.0\Petshop.Core.Entity.pdb
 C:\Users\Bjarne Helsinghof\source\repos\Petshop\Petshop.Core\obj\Debug\netstandard2.0\Petshop.Core.csproj.CopyComplete
+C:\Users\Bjarne Helsinghof\source\repos\PetshopComp\Petshop.Core\bin\Debug\netstandard2.0\Petshop.Core.deps.json
+C:\Users\Bjarne Helsinghof\source\repos\PetshopComp\Petshop.Core\bin\Debug\netstandard2.0\Petshop.Core.dll
+C:\Users\Bjarne Helsinghof\source\repos\PetshopComp\Petshop.Core\bin\Debug\netstandard2.0\Petshop.Core.pdb
+C:\Users\Bjarne Helsinghof\source\repos\PetshopComp\Petshop.Core\bin\Debug\netstandard2.0\Petshop.Core.Entity.dll
+C:\Users\Bjarne Helsinghof\source\repos\PetshopComp\Petshop.Core\bin\Debug\netstandard2.0\Petshop.Core.Entity.pdb
+C:\Users\Bjarne Helsinghof\source\repos\PetshopComp\Petshop.Core\obj\Debug\netstandard2.0\Petshop.Core.csprojAssemblyReference.cache
+C:\Users\Bjarne Helsinghof\source\repos\PetshopComp\Petshop.Core\obj\Debug\netstandard2.0\Petshop.Core.csproj.CoreCompileInputs.cache
+C:\Users\Bjarne Helsinghof\source\repos\PetshopComp\Petshop.Core\obj\Debug\netstandard2.0\Petshop.Core.AssemblyInfoInputs.cache
+C:\Users\Bjarne Helsinghof\source\repos\PetshopComp\Petshop.Core\obj\Debug\netstandard2.0\Petshop.Core.AssemblyInfo.cs
+C:\Users\Bjarne Helsinghof\source\repos\PetshopComp\Petshop.Core\obj\Debug\netstandard2.0\Petshop.Core.csproj.CopyComplete
+C:\Users\Bjarne Helsinghof\source\repos\PetshopComp\Petshop.Core\obj\Debug\netstandard2.0\Petshop.Core.dll
+C:\Users\Bjarne Helsinghof\source\repos\PetshopComp\Petshop.Core\obj\Debug\netstandard2.0\Petshop.Core.pdb

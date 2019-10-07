@@ -1,0 +1,343 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\PetRestApi\\PetRestApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\PetRestApi\\PetRestApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\PetRestApi\\PetRestApi.csproj",
+        "projectName": "PetRestApi",
+        "projectPath": "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\PetRestApi\\PetRestApi.csproj",
+        "packagesPath": "C:\\Users\\Bjarne Helsinghof\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\PetRestApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Bjarne Helsinghof\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop.Core\\Petshop.Core.csproj": {
+                "projectPath": "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop.Core\\Petshop.Core.csproj"
+              },
+              "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop.infrastructure.SQL\\Petshop.infrastructure.SQL.csproj": {
+                "projectPath": "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop.infrastructure.SQL\\Petshop.infrastructure.SQL.csproj"
+              },
+              "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop.infrastructure.static.Data\\Petshop.Infrastructure.Static.Data.csproj": {
+                "projectPath": "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop.infrastructure.static.Data\\Petshop.Infrastructure.Static.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite.Core": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop.Core.Entity\\Petshop.Core.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop.Core.Entity\\Petshop.Core.Entity.csproj",
+        "projectName": "Petshop.Core.Entity",
+        "projectPath": "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop.Core.Entity\\Petshop.Core.Entity.csproj",
+        "packagesPath": "C:\\Users\\Bjarne Helsinghof\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop.Core.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Bjarne Helsinghof\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop.Core\\Petshop.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop.Core\\Petshop.Core.csproj",
+        "projectName": "Petshop.Core",
+        "projectPath": "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop.Core\\Petshop.Core.csproj",
+        "packagesPath": "C:\\Users\\Bjarne Helsinghof\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Bjarne Helsinghof\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop.Core.Entity\\Petshop.Core.Entity.csproj": {
+                "projectPath": "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop.Core.Entity\\Petshop.Core.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop.infrastructure.SQL\\Petshop.infrastructure.SQL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop.infrastructure.SQL\\Petshop.infrastructure.SQL.csproj",
+        "projectName": "Petshop.infrastructure.SQL",
+        "projectPath": "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop.infrastructure.SQL\\Petshop.infrastructure.SQL.csproj",
+        "packagesPath": "C:\\Users\\Bjarne Helsinghof\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop.infrastructure.SQL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Bjarne Helsinghof\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop.Core.Entity\\Petshop.Core.Entity.csproj": {
+                "projectPath": "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop.Core.Entity\\Petshop.Core.Entity.csproj"
+              },
+              "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop.Core\\Petshop.Core.csproj": {
+                "projectPath": "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop.Core\\Petshop.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite.Core": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop.infrastructure.static.Data\\Petshop.Infrastructure.Static.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop.infrastructure.static.Data\\Petshop.Infrastructure.Static.Data.csproj",
+        "projectName": "Petshop.Infrastructure.Static.Data",
+        "projectPath": "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop.infrastructure.static.Data\\Petshop.Infrastructure.Static.Data.csproj",
+        "packagesPath": "C:\\Users\\Bjarne Helsinghof\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop.infrastructure.static.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Bjarne Helsinghof\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop.Core.Entity\\Petshop.Core.Entity.csproj": {
+                "projectPath": "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop.Core.Entity\\Petshop.Core.Entity.csproj"
+              },
+              "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop.Core\\Petshop.Core.csproj": {
+                "projectPath": "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop.Core\\Petshop.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

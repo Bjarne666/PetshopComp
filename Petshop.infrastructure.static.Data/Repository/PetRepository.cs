@@ -27,7 +27,7 @@ namespace Petshop.Infrastructure.Static.Data.Repository
             return FakeDb.AllPets;
         }
 
-        public Pet Update(Pet toUpdate)
+        public Pet UpdatePet(Pet toUpdate)
         {
             var petFromDatabase = ReadById(toUpdate.Id);
             if (petFromDatabase == null)
@@ -41,7 +41,7 @@ namespace Petshop.Infrastructure.Static.Data.Repository
             return petFromDatabase;
         }
 
-        public Pet Delete(int id)
+        public Pet DeletePet(int id)
         {
             var foundPet = ReadById(id);
             if (foundPet != null)

@@ -1,16 +1,16 @@
-﻿using System;
-using Microsoft.Extensions.DependencyInjection;
+﻿using Microsoft.Extensions.DependencyInjection;
+using Petshop;
 using Petshop.Core.Appservice;
 using Petshop.Core.Appservice.IMPL;
 using Petshop.Core.Domainservice;
 using Petshop.Infrastructure.Static.Data;
 using Petshop.Infrastructure.Static.Data.Repository;
 
-namespace Petshop
+namespace PetshopComp
 {
   public class Program
     {
-        static void Main()
+        private static void Main()
             {
 
                 var serviceCollection = new ServiceCollection();

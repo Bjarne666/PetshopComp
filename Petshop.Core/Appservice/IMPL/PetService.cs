@@ -51,9 +51,9 @@ namespace Petshop.Core.Appservice.IMPL
             return pet;
         }
 
-        public Pet CreatePet(Pet toCreate)
+        public Pet CreatePet(Pet pet)
         {
-            return _petRepository.CreatePet(toCreate);
+            return _petRepository.CreatePet(pet);
         }
 
         public List<Pet> GetAllPets()
@@ -61,12 +61,12 @@ namespace Petshop.Core.Appservice.IMPL
             return _petRepository.GetAllPets().ToList();
         }
 
-        public Pet UpdatePet(Pet toUpdate)
+        public Pet UpdatePet(Pet petupdate)
         {
-            var pet = GetByIdPet(toUpdate.Id);
-            pet.Name = toUpdate.Name;
-            pet.Price = toUpdate.Price;
-            pet.SoldDate = toUpdate.SoldDate;
+            var pet = GetByIdPet(petupdate.Id);
+            pet.Name = petupdate.Name;
+            pet.Price = petupdate.Price;
+            pet.SoldDate = petupdate.SoldDate;
             return pet;
         }
 
@@ -85,7 +85,7 @@ namespace Petshop.Core.Appservice.IMPL
 
         public Pet DeletePet(int id)
         {
-            return _petRepository.Delete(id);
+            return _petRepository.DeletePet(id);
         }
     }
 }

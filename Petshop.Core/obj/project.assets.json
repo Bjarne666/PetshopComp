@@ -201,11 +201,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bjarne Helsinghof\\source\\repos\\Petshop\\Petshop.Core\\Petshop.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop.Core\\Petshop.Core.csproj",
       "projectName": "Petshop.Core",
-      "projectPath": "C:\\Users\\Bjarne Helsinghof\\source\\repos\\Petshop\\Petshop.Core\\Petshop.Core.csproj",
+      "projectPath": "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop.Core\\Petshop.Core.csproj",
       "packagesPath": "C:\\Users\\Bjarne Helsinghof\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bjarne Helsinghof\\source\\repos\\Petshop\\Petshop.Core\\obj\\",
+      "outputPath": "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -224,8 +224,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Bjarne Helsinghof\\source\\repos\\Petshop\\Petshop.Core.Entity\\Petshop.Core.Entity.csproj": {
-              "projectPath": "C:\\Users\\Bjarne Helsinghof\\source\\repos\\Petshop\\Petshop.Core.Entity\\Petshop.Core.Entity.csproj"
+            "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop.Core.Entity\\Petshop.Core.Entity.csproj": {
+              "projectPath": "C:\\Users\\Bjarne Helsinghof\\source\\repos\\PetshopComp\\Petshop.Core.Entity\\Petshop.Core.Entity.csproj"
             }
           }
         }

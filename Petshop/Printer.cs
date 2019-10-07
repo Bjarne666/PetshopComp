@@ -1,10 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
 using Petshop.Core.Appservice;
 using Petshop.Core.Entity;
 
-namespace Petshop
+namespace PetshopComp
 {
     public class Printer : IPrinter
     {
@@ -159,7 +158,7 @@ namespace Petshop
         {
             Console.WriteLine("please make a selection\n");
 
-            for (int i = 0; i < menuItems.Length; i++)
+            for (var i = 0; i < menuItems.Length; i++)
             {
                 Console.WriteLine($"{(i + 1)}: {menuItems[i]}");
             }
@@ -238,7 +237,7 @@ namespace Petshop
             _petService.CreatePet(pet);
         }
 
-        private void ListPets(List<Pet> pets)
+        private void ListPets(IEnumerable<Pet> pets)
         {
             Console.WriteLine("\n system list of pets: ");
             foreach (var pet in pets)

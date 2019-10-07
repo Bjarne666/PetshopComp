@@ -1,0 +1,14 @@
+C:\Users\Bjarne Helsinghof\source\repos\PetshopComp\Petshop.infrastructure.SQL\bin\Debug\netstandard2.0\Petshop.infrastructure.SQL.deps.json
+C:\Users\Bjarne Helsinghof\source\repos\PetshopComp\Petshop.infrastructure.SQL\bin\Debug\netstandard2.0\Petshop.infrastructure.SQL.dll
+C:\Users\Bjarne Helsinghof\source\repos\PetshopComp\Petshop.infrastructure.SQL\bin\Debug\netstandard2.0\Petshop.Core.dll
+C:\Users\Bjarne Helsinghof\source\repos\PetshopComp\Petshop.infrastructure.SQL\bin\Debug\netstandard2.0\Petshop.Core.Entity.dll
+C:\Users\Bjarne Helsinghof\source\repos\PetshopComp\Petshop.infrastructure.SQL\bin\Debug\netstandard2.0\Petshop.Core.Entity.pdb
+C:\Users\Bjarne Helsinghof\source\repos\PetshopComp\Petshop.infrastructure.SQL\bin\Debug\netstandard2.0\Petshop.Core.pdb
+C:\Users\Bjarne Helsinghof\source\repos\PetshopComp\Petshop.infrastructure.SQL\obj\Debug\netstandard2.0\Petshop.infrastructure.SQL.csprojAssemblyReference.cache
+C:\Users\Bjarne Helsinghof\source\repos\PetshopComp\Petshop.infrastructure.SQL\obj\Debug\netstandard2.0\Petshop.infrastructure.SQL.csproj.CoreCompileInputs.cache
+C:\Users\Bjarne Helsinghof\source\repos\PetshopComp\Petshop.infrastructure.SQL\obj\Debug\netstandard2.0\Petshop.infrastructure.SQL.AssemblyInfoInputs.cache
+C:\Users\Bjarne Helsinghof\source\repos\PetshopComp\Petshop.infrastructure.SQL\obj\Debug\netstandard2.0\Petshop.infrastructure.SQL.AssemblyInfo.cs
+C:\Users\Bjarne Helsinghof\source\repos\PetshopComp\Petshop.infrastructure.SQL\obj\Debug\netstandard2.0\Petshop.infrastructure.SQL.csproj.CopyComplete
+C:\Users\Bjarne Helsinghof\source\repos\PetshopComp\Petshop.infrastructure.SQL\bin\Debug\netstandard2.0\Petshop.infrastructure.SQL.pdb
+C:\Users\Bjarne Helsinghof\source\repos\PetshopComp\Petshop.infrastructure.SQL\obj\Debug\netstandard2.0\Petshop.infrastructure.SQL.dll
+C:\Users\Bjarne Helsinghof\source\repos\PetshopComp\Petshop.infrastructure.SQL\obj\Debug\netstandard2.0\Petshop.infrastructure.SQL.pdb
