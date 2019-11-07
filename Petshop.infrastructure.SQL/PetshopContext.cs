@@ -6,7 +6,7 @@ using Petshop.Core.Entity;
 
 namespace Petshop.infrastructure.SQL
 {
-  public  class PetshopContext: DbContext
+  public class PetshopContext: DbContext
   {
       public PetshopContext(DbContextOptions opt): base(opt)
       {
